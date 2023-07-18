@@ -24,36 +24,39 @@ A custom relay board with esp32 microcontroller, for remote control of appliance
 ## Screenshots
 
 3D model:
+<p align="center">
 <a href="" rel="noopener">
         <img width=1000px height=600px src = "" alt="">
     </a>
-
+</p>
 Schematics:
-
+<p align="center">
 <a href="" rel="noopener">
         <img width=1000px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/Schematic_Nithub%20Smart%20Home%20device_2023-06-29.png" alt=" ">
     </a>
+
+</p>
 PCB:
-
+<p align="center">
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="">
+        <img width=400px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9442.JPG" alt="">
     </a>
-
+</p>
 Home assistant discovery:
 
-
+<p align="center">
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "">
+        <img width=400px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9733.PNG">
     </a>
 
+</p>
 
-OUTPUT 
-
+Testing 
+<p align="center">
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "">
+        <img width=400px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9735.JPG">
     </a>
-## Testing 
-
+</p>
 
 ## Hardware Requirements
 
