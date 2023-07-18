@@ -36,24 +36,26 @@ Schematics:
 PCB:
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "" alt="">
+        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9442.JPG" alt="">
     </a>
 
 Home assistant discovery:
 
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "">
+        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9733.PNG">
     </a>
 
 
 OUTPUT 
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = "">
+        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9734.JPG">
     </a>
-## Testing 
-
+Testing 
+<a href="" rel="noopener">
+        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9442.JPG">
+    </a>
 
 ## Hardware Requirements
 
