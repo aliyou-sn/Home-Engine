@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="" rel="noopener">
-        <img width=200px height=200px src = "" alt="Home Engine">
+        <img width=200px height=200px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/smart-home-connection-icon-logo-vector-design-illustration-wireless-concept-trendy-house-flat-website-symbol-sign-app-ui-212864668.jpg.webp" alt="Home Engine">
     </a>
 </p>
 
@@ -31,7 +31,7 @@ A custom relay board with esp32 microcontroller, for remote control of appliance
 Schematics:
 
 <a href="" rel="noopener">
-        <img width=1000px height=600px src = " " alt=" ">
+        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/Schematic_Nithub%20Smart%20Home%20device_2023-06-29.png" alt=" ">
     </a>
 PCB:
 
