@@ -39,7 +39,7 @@ Schematics:
 PCB:
 <p align="center">
 <a href="" rel="noopener">
-        <img width=400px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9442.JPG" alt="">
+        <img width=800px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/IMG_9442.JPG" alt="">
     </a>
 </p>
 Home assistant discovery:
@@ -54,7 +54,7 @@ Home assistant discovery:
 Testing 
 <p align="center">
 <a href="" rel="noopener">
-        <img width=400px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/WhatsApp%20Image%202023-07-18%20at%2012.06.04%20PM.jpeg">
+        <img width=800px height=600px src = "https://github.com/aliyou-sn/Home-Engine/blob/main/images/WhatsApp%20Image%202023-07-18%20at%2012.06.04%20PM.jpeg">
     </a>
 </p>
 
