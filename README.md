@@ -20,7 +20,8 @@ A custom relay board with esp32 microcontroller, for remote control of appliance
 3. Constant wifi connection
 4. Works with Home assistant
 5. Running locally
-   
+
+PCB : https://easyeda.com/editor#cmd=new_schematic,cmd_for_project=11bec5abf89b4abda8c313228e148a9a
 ## Screenshots
 
 3D model:
